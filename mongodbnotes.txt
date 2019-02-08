@@ -1,0 +1,10 @@
+MongoDB
+NoSQL Database
+Use it anytime you want to store data and persist it in your app
+Mongo is the “M” in MEAN
+Express
+Angular
+Nodejs
+Client browser- Server Node- Mongoose- Mongodb
+Mongoose is a package in Node JS
+
